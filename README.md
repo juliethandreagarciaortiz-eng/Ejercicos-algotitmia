@@ -16,4 +16,5 @@ en un compilador en línea o en Visual Studio.
 |----|-----------|--------|
 | 01 | Intercambio con variable auxiliar | ✅ |
 | 02 | Intercambio sin variable auxiliar | ⏳ |
+| 02 | Promedio ponderado (25 / 35 / 40)| ⏳ |
 
