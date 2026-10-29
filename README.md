@@ -16,4 +16,4 @@ en un compilador en línea o en Visual Studio.
 |----|-----------|--------|
 | 01 | Intercambio con variable auxiliar | ✅ |
 | 02 | Intercambio sin variable auxiliar | ⏳ |
-| 02 | eje algoritmia 3 | ⏳ |
+
